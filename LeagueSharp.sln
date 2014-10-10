@@ -3,31 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueSharp", "LeagueSharp\LeagueSharp.csproj", "{30A471AA-619E-4893-A326-3369F7322887}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwistedFate", "TwistedFate\TwistedFate.csproj", "{5615EFEF-FAE4-43A4-9C14-986D3C5BB75E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World", "Hello World\Hello World.csproj", "{1E1D5092-1805-46DC-A796-3DC3FD9C3706}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{30A471AA-619E-4893-A326-3369F7322887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30A471AA-619E-4893-A326-3369F7322887}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30A471AA-619E-4893-A326-3369F7322887}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30A471AA-619E-4893-A326-3369F7322887}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5615EFEF-FAE4-43A4-9C14-986D3C5BB75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5615EFEF-FAE4-43A4-9C14-986D3C5BB75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5615EFEF-FAE4-43A4-9C14-986D3C5BB75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5615EFEF-FAE4-43A4-9C14-986D3C5BB75E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E1D5092-1805-46DC-A796-3DC3FD9C3706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E1D5092-1805-46DC-A796-3DC3FD9C3706}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E1D5092-1805-46DC-A796-3DC3FD9C3706}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E1D5092-1805-46DC-A796-3DC3FD9C3706}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
